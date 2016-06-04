@@ -2,6 +2,11 @@ package test;
 
 import java.util.BitSet;
 
+/**
+ * another test from testalg unstaged
+ * @author Kristanna
+ *
+ */
 public class StringAlgorithms {
 
 	/**
