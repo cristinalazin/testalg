@@ -2,6 +2,12 @@ package test;
 
 import java.util.Scanner;
 
+/**
+ * another test from test alg committed
+ * 
+ * @author Kristanna
+ *
+ */
 public class StringMatching {
 
 	public static void main(String[] args) {

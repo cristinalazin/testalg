@@ -1,5 +1,10 @@
 package test;
 
+/**
+ * another test from test alg 
+ * @author Kristanna
+ *
+ */
 public class JavaSpecTest {
 	
 	public static class A
