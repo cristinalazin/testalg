@@ -28,6 +28,11 @@ public class StringAlgorithms {
         System.out.println(Long.MAX_VALUE);
 	}
 
+	/**
+	 * comment added
+	 * @author Kristanna
+	 *
+	 */
 	public static class Other { static String hello = "Hello"; }
 	
 	/**
