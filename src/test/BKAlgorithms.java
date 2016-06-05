@@ -2,6 +2,11 @@ package test;
 
 import java.util.Scanner;
 
+/**
+ * modification from branch master testalg
+ * @author Kristanna
+ *
+ */
 public class BKAlgorithms {
 	public static long SOL = 1;
 	/**
